@@ -1,2 +1,3 @@
-# map-my-ithaca
-Art project for articulating the maps in our heads
+# Map my Ithaca
+
+An art project for articulating the maps in our heads
