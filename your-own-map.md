@@ -44,3 +44,8 @@ Most hand drawn maps will need some re-scaling, which you can easily do with Fel
 ![post_processing](https://user-images.githubusercontent.com/1711126/205542136-032c4dd3-7da1-4c2b-8c07-7a9065799078.gif)
 
 
+## Mapping other cities
+
+The only thing that needs to change when doing this for other cities is the initial Felt template that includes the big rectangle that covers up the city.
+
+I created this rectangle using [https://geojson.io/](https://geojson.io/). Just navigate to your city, draw the rectangle, save it as a `*.geojson` file, then drag and drop it into Felt, and that's your base.
