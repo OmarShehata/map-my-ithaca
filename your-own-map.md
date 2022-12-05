@@ -31,6 +31,8 @@ Then select **Duplicate to my maps**
 
 7. Email your map to `omar.sameh.shehata@gmail.com`
 
+_Or if you'd like to share it more publicly, open a GitHub issue! https://github.com/OmarShehata/map-my-ithaca/issues_
+
 ## Post processing
 
 To compare your map to the real map of Ithaca, you can show uncover the map underneath. 
